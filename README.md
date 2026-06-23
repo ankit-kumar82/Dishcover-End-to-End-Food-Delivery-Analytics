@@ -28,6 +28,27 @@ This project simulates the workflow of a Data Analyst—from database design and
 
 ---
 
+## 📂 Dataset
+
+This project is based on the **Food Delivery Dataset** available on Kaggle, created by Gaurav Malik. The dataset contains food delivery-related information and can be used for analytics, business intelligence, and machine learning applications. It includes multiple attributes related to orders, customers, restaurants, deliveries, and operational performance.
+
+**Dataset Source:**
+[Food Delivery Dataset (Kaggle)](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?utm_source=chatgpt.com)
+
+### Dataset Usage in This Project
+
+The original dataset was adapted and structured into a relational database model consisting of:
+
+* Customers
+* Restaurants
+* Orders
+* Deliveries
+* Riders
+
+The data was then analyzed using PostgreSQL and visualized using Power BI to generate business insights and solve real-world analytical problems.
+
+---
+
 ## 🗂️ Project Highlights
 
 ✅ Created and managed a PostgreSQL database (`dishcover_db`)
